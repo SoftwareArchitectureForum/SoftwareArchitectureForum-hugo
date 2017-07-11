@@ -1,7 +1,7 @@
-baseurl = "https://WinterTechForum.github.io"
-# baseurl = "https://WinterTechForum.com"
+baseurl = "https://SoftwareArchitectureForum.github.io"
+# baseurl = "https://SoftwareArchitectureForum.com"
 languageCode = "en-us"
-title = "Winter Tech Forum: A Self-Organizing Open Spaces Conference in Crested Butte, Colorado Feb 26 - March 2, 2018"
+title = "Software Architecture Forum: A Self-Organizing Open Spaces Conference in Crested Butte, Colorado Sept 25 - 29, 2017"
 theme = "hugo-material-docs"
 metadataformat = "yaml"
 canonifyurls = true
@@ -36,7 +36,7 @@ googleAnalytics = ""
 
 [social]
 	twitter = ""
-	github  = "WinterTechForum/WinterTechForum-hugo"
+	github  = "SoftwareArchitectureForum/SoftwareArchitectureForum-hugo"
 	email   = "mindviewinc@gmail.com"
 
 [[menu.main]]

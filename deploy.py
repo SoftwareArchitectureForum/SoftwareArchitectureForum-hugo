@@ -3,7 +3,7 @@ import sys
 import os
 import shutil
 
-target = Path.cwd().parent / "WinterTechForum.github.io"
+target = Path.cwd().parent / "SoftwareArchitectureForum.github.io"
 
 def unknown(item):
     print("UNKNOWN ITEM: {}".format(item))

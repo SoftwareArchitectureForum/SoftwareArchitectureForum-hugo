@@ -1,6 +1,6 @@
-# The Winter Tech Forum Hugo Static Site Source
+# The Software Architecture Forum Hugo Static Site Source
 
-Hugo Static Site for the [Winter Tech Forum Conference](www.WinterTechForum.com).
+Hugo Static Site for the [Software Architecture Forum Conference](www.SoftwareArchitectureForum.com).
 
 Because of the theme, the site automatically works well on phones as well as
 computers and tablets.
@@ -28,6 +28,6 @@ pull requests.
     set.
 
 5.  To duplicate what happens during an actual deploy, first clone
-    [WinterTechForum.github.io](https://github.com/WinterTechForum/WinterTechForum.github.io)
+    [SoftwareArchitectureForum.github.io](https://github.com/SoftwareArchitectureForum/SoftwareArchitectureForum.github.io)
     into your "git" subdirectory. Now run `python deploy.py` from within this
     subdirectory.
