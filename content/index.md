@@ -4,7 +4,7 @@ type: index
 weight: 10
 ---
 
-![Hiker and Mountains](/images/wtf-web-nodate.jpg)
+![Architecture and Design](/images/SAF-banner.jpg)
 
 <span style="font-size:250%">Sept 25 - 29, 2017</span><br/><br/>
 <span style="font-size:150%">Attendance limited to 40<br/>
