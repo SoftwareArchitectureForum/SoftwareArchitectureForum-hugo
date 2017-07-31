@@ -3,8 +3,6 @@ title: Conference Theme
 weight: 20
 ---
 
-![Architecture and Design](/images/SAF-banner.jpg)
-
 Theme: *TBA*
 ----------------------------------------------------------------------------------------------------------
 
