@@ -15,6 +15,7 @@ googleAnalytics = ""
 
 	logo = "/images/SAF-square.png"
 	favicon = "images/SAF-favicon.ico"
+	banner_image = "/images/SAF-banner.jpg"
 
 	permalink = "#"
 
