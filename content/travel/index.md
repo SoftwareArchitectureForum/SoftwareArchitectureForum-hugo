@@ -19,7 +19,8 @@ weight: 60
 1.  Take the [Bus from Union Station to Gunnison](
     https://webstore.trailways.com/buy-bus-tickets/denver-co-to-gunnison-co)
     ($37). You should buy your ticket online, when you make your airline
-    reservation.
+    reservation. When configured correctly, the bus ticket web page should
+    look something like this: ![Bus Ticket](/images/BusReservation.png)
 
 1.  Get off at the [Powerstop Gas Station & Cafe](http://www.the-powerstop.com/).
 
