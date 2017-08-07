@@ -10,7 +10,7 @@ weight: 10
 Price: $750</span>
 
 <span style="font-size:90%">If you've previously attended any of the Crested
-<Butte events and need financial assistance,
+Butte events and need financial assistance,
 <a href="https://softwarearchitectureforum.github.io/contact/">make a
 request</a>.</span>
 
