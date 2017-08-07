@@ -9,6 +9,11 @@ weight: 10
 <span style="font-size:150%">Attendance limited to 40<br/>
 Price: $750</span>
 
+<span style="font-size:90%">If you've previously attended any of the Crested
+<Butte events and need financial assistance,
+<a href="https://softwarearchitectureforum.github.io/contact/">make a
+request</a>.</span>
+
 - *I'm still stunned by how impactful WTF is .. each year I walk away with a sense of knowing what I need to focus on that will help make an impact on my team and our projects.* -- Matt Brandt
 
 - *The roundup has been the best and most transformative conference of my life, by far. It's directly responsible for getting me where I am.* -- Joe Sondow
