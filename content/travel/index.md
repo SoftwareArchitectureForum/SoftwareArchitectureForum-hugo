@@ -19,7 +19,8 @@ weight: 60
 1.  Take the [Bus from Union Station to Gunnison](
     https://webstore.trailways.com/buy-bus-tickets/denver-co-to-gunnison-co)
     ($37). This is a very comfortable bus with power outlets and WiFi (good
-    enough for email but not for streaming). You should buy your ticket
+    enough for email but not for streaming). The duration of the bus ride is
+    roughly the same time it takes to drive yourself. You should buy your ticket
     online, when you make your airline reservation. When configured correctly,
     the bus ticket web page should look something like this: ![Bus
     Ticket](/images/BusReservation.png)
@@ -36,8 +37,8 @@ weight: 60
     Round Trip" or "Adult One Way." Put in the date, the bus arrival time (6:30 pm) under
     "flight arrival time", and put "Powerstop" in the space labeled "Name of
     Hotel/Condo or Lodging Address." You can leave the rest of the fields alone.
-    Alpine Express will email you a confirmation. If you need to you can also
-    contact them: <info@alpineexpressshuttle.com>.
+    Alpine Express will email you a confirmation. You can
+    contact them at: <info@alpineexpressshuttle.com>.
 
 1.  For your return trip, reverse the order of the above. Note that if you buy a
     round-trip ticket from Alpine Express the total cost is a bit cheaper.
@@ -51,14 +52,14 @@ weight: 60
 -   Use the mailing list to find others to share your car rental.
 
 
-## Flying into Gunnison
+## Flying into Gunnison Airport
 -   This is often the fastest, and most expensive, option.
 -   Alpine Express takes you from the Gunnison airport to Crested Butte.
 -   Because of weather, the Gunnison flight can be unreliable.
 -   [Airline tips](https://sites.google.com/site/javaposseroundup/airline-tips)
 
 
-## Other alternatives
+## Other Alternatives
 -   Coaches can be rented for groups, to take you to Crested Butte
 -   Montrose airport (about an hour further away than Gunnison) can sometimes be more
     reliable than Gunnison in the Winter. There are services to bring you from Montrose
