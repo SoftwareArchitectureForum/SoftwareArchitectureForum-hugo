@@ -3,10 +3,17 @@ title: Conference Theme
 weight: 20
 ---
 
-Theme: *TBA*
-----------------------------------------------------------------------------------------------------------
+Applying Design Thinking
+------------------------
+**Potential Topics:**
 
--   (Topics here)
+-   Using new tools to solve old problems
+-   Designing for simplicity: understandable is maintainable
+-   Reconsidering agile timeboxing
+-   Exploring the potential of cross-language development
+-   Breaking out of our mental and cultural chains
+-   Can we take the interview out of the job interview?
+-   Re-envisioning how we recruit, onboard, and build teams
 -   And lots more
 -   Plus anything else anyone wants to talk about, of course
 -   And our business track
@@ -21,8 +28,7 @@ Wednesday Hackathon
 Hackathons typically explore new technologies or even create new product
 prototypes. Past hackathons have ranged from hardware projects to the
 exploration of new languages, and some have focused on a particular product or
-technology. If you can get a group together that wants to explore a topic, go
-for it.
+technology. All you need is a group that wants to explore a topic.
 
 Hackathons take place in either the conference venue or the various houses
 that are rented by groups in town. The evening of the hackathon, results are

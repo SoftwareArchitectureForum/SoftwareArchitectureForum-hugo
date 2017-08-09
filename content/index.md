@@ -5,7 +5,6 @@ weight: 10
 ---
 
 <span style="font-size:150%">Organized by Bruce Eckel<br/><br/>
-<span style="font-size:250%">Sept 25 - 29, 2017</span><br/><br/>
 <span style="font-size:150%">Attendance limited to 40<br/>
 Price: $750</span>
 
@@ -13,6 +12,8 @@ Price: $750</span>
 Butte events and need financial assistance,
 <a href="https://softwarearchitectureforum.github.io/contact/">make a
 request</a>.</span>
+
+- *The WTF took me to places I never imagined I would go; intellectually, emotionally, career-wise, and geographically. The power of this tiny thing is immeasurable.* -- Andrew Harmel-Law, Tech Principal at ThoughtWorks
 
 - *I'm still stunned by how impactful WTF is ... each year I walk away with a sense of knowing what I need to focus on that will help make an impact on my team and our projects.* -- Matt Brandt
 
