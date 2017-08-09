@@ -5,6 +5,12 @@ weight: 20
 
 Applying Design Thinking
 ------------------------
+[Design Thinking](http://www.creativityatwork.com/design-thinking-strategy-for-innovation/)
+is a process of focused problem-solving through creative thinking and experimentation:
+![Design Thinking Graphic](DesignThinking.png)<br/>
+(Image used by permission from [Creativity at Work](http://www.creativityatwork.com))
+
+
 **Potential Topics:**
 
 -   Using new tools to solve old problems
