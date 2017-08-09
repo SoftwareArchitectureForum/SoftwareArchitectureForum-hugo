@@ -4,18 +4,21 @@ type: index
 weight: 10
 ---
 
-<span style="font-size:150%">Organized by Bruce Eckel<br/><br/>
-<span style="font-size:150%">Attendance limited to 40<br/>
-Price: $750</span>
+<span style="font-size:150%">Organized by Bruce Eckel<br/>
+Sept 25-29, 2017, Crested Butte, Colorado</span><br/>
 
-<span style="font-size:90%">If you've previously attended any of the Crested
-Butte events and need financial assistance,
+- Attendance limited to 40
+- Price: $750
+- If you've previously attended any of the Crested
+Butte events and need a break on the fee,
 <a href="https://softwarearchitectureforum.github.io/contact/">make a
-request</a>.</span>
+request</a>. Don't let the fee be the reason you can't attend.
+
+<hr style="height:5px;border-width:0;color:#1A4C7D;background-color:#1A4C7D">
 
 - *The WTF took me to places I never imagined I would go; intellectually, emotionally, career-wise, and geographically. The power of this tiny thing is immeasurable.* -- Andrew Harmel-Law, Tech Principal at ThoughtWorks
 
-- *I'm still stunned by how impactful WTF is ... each year I walk away with a sense of knowing what I need to focus on that will help make an impact on my team and our projects.* -- Matt Brandt
+- *I'm still stunned by how impactful WTF is ... each year I walk away with a sense of knowing what I need to focus on that will help make an impact on my team and our projects.* -- Matt Brandt, Mozilla
 
 - *The roundup has been the best and most transformative conference of my life, by far. It's directly responsible for getting me where I am.* -- Joe Sondow
 
