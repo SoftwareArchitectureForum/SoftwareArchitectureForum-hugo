@@ -17,7 +17,9 @@ is a process of focused problem-solving through creative thinking and experiment
 -   Designing for simplicity: understandable is maintainable
 -   Reconsidering agile timeboxing
 -   Exploring the potential of cross-language development
+-   Discovering ineffective patterns
 -   Breaking out of our mental and cultural chains
+-   Accepting that big shifts might take time
 -   Can we take the interview out of the job interview?
 -   Re-envisioning how we recruit, onboard, and build teams
 -   And lots more
