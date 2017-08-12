@@ -29,6 +29,9 @@ googleAnalytics = ""
 	[params.palette]
     	primary = "indigo"
     	accent  = "red"
+    	header_color = "#174B7F"
+    	footer_color = "#174B7F"
+    	h1_ruler_color= "#174B7F"
 
     [params.font]
     	text = "Ubuntu"
