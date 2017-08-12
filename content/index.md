@@ -14,7 +14,7 @@ Butte events and need a break on the fee,
 <a href="https://softwarearchitectureforum.github.io/contact/">make a
 request</a>. Don't let the fee be the reason you can't attend.
 
-<hr style="height:5px;border-width:0;color:#1A4C7D;background-color:#1A4C7D">
+<hr/>
 
 - *The WTF took me to places I never imagined I would go; intellectually, emotionally, career-wise, and geographically. The power of this tiny thing is immeasurable.* -- Andrew Harmel-Law, Tech Principal at ThoughtWorks
 
