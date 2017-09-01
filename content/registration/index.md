@@ -3,24 +3,21 @@ title: Registration
 weight: 90
 ---
 
-- If you've previously attended any of the Crested
+If you've previously attended any of the Crested
 Butte events and need a break on the fee,
 <a href="https://softwarearchitectureforum.github.io/contact/">make a
 request</a>. Don't let the fee be the reason you can't attend.
 
-## First:
+- <p style="font-size:20px">First,
+<a href="https://twistapp.com/j/c59781535f0eb0a231f5a942536d7577">Join the Twist Group</a>
+</p>
 
-<a href="mailto:mindviewinc@gmail.com?subject=Twist%20request:%20Software%20Architecture%20Forum&body=Please%20add%20me%20to%20https://twistapp.com/a/23564/people/u">Click here to generate a join request</a> for the Twist group. (You might need to right click on this link and
- select "Open Link With..." and then choose your email service on the resulting submenu).
-
-You'll get an invitation to join the Twist group. This is the central
-information hub before, during and after the conference. You can post any
-questions about the conference including those about ride sharing and group
-house rentals.
+This is the central information hub before, during and after the conference. You
+can post any questions about the conference including those about ride sharing
+and group house rentals.
 
 
-## Next:
-<br/>
+- <p style="font-size:20px">Next:
 <form action="https://ti.to/mindview/software-architecture-forum-2017"
       method="get" target="_blank">
     <input type="submit" value="Registration Payment"
@@ -33,3 +30,4 @@ house rentals.
                 border-radius: 12px;"
     />
 </form>
+</p>
