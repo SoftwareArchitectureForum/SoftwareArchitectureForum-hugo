@@ -23,7 +23,7 @@ available in town.
 - **Afternoon Workshops**. People often spontanously decide to create their
 own workshops to investigate a particular idea or technology. Rooms at the
 Parish Hall are usually available, or you can hold them at one of the rental
-houses or in my living room (which has a Chromcast-enable TV).
+houses or in my living room (which has a Chromcast-enabled TV).
 
 - **Rest and Recovery**. In case you need rest to get used to the altitude, or
 to work on your own, or just recover from life.

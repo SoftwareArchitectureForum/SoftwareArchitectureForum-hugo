@@ -16,7 +16,7 @@ Welcome Potluck Barbeque at Bruce's House (107 WhiteRock). Bring something
 to grill, cook, or share.
 
 Go to the corner of First and WhiteRock, and you'll see a building of four
-townhomes with solar panels on the room. My unit is the furthest away from
+townhomes with solar panels on the roof. My unit is the furthest away from
 the corner, and you'll see a little white cargo trailer in front. I usually
 have colorful lights on, as well.
 
@@ -33,7 +33,7 @@ Introduction to Open Spaces\
 Initial talk topics and organization\
 Session 1
 
-- **11:10am-12:00pm**\
+- **11:10-12:00**\
 Session 2
 
 - **Afternoon**\
@@ -44,7 +44,8 @@ Lunch/free time\
 Groups go to dinner or informal barbeque at Bruce's
 
 - **8pm**\
-Lightning talks at the Parish Hall
+Lightning talks at the Parish Hall\
+**Followed by:** Pub discussions
 
 ***********************************
 
@@ -56,10 +57,10 @@ Tuesday
 - **9-9:50am**\
 Session 3
 
-- **10:10am-11:00am**\
+- **10:20-11:10**\
 Session 4
 
-- **11:20am-12:30pm**\
+- **11:40-12:30**\
 Session 5
 
 - **Afternoon**\
@@ -97,10 +98,10 @@ Thursday
 - **9-9:50am**\
 Session 6
 
-- **10:10am-11:00am**\
+- **10:20-11:10**\
 Session 7
 
-- **11:20am-12:30pm**\
+- **11:40-12:30**\
 Session 8
 
 - **Afternoon**\
@@ -108,23 +109,36 @@ Lunch/free time\
 
 - **Evening**\
 Groups go to dinner or informal barbeque at Bruce's\
-**OR**
-**Evening:** Progressive Dinner at Rental Houses\
+**OR:** Progressive Dinner at Rental Houses\
 **Followed by:** Event TBA
 
 ***********************************
 
-Friday 9-10am:** Session 9\
-    **(PH downstairs unavailable 7am-9:00am)**\
-    **10:00-11:00am:** Session 10\
-    **11:30-12:30pm:** Closing Session\
-    **Afternoon:** lunch/workshops/hackathons/free time\
-    **(PH downstairs unavailable 4pm-5:30pm)**\
-    **Evening:** Ski/Snowshoe to catered Yurt dinner (optional; requires
-    signup)\
+Friday
+------
+
+- **Breakfast**: Post your plans on Twist if you want others to join you.
+
+- **9-9:50am**\
+Session 9
+
+- **10:20-11:10**\
+Session 10
+
+- **11:40-12:30**\
+Session Closing Session
+
+- **Afternoon**\
+Lunch/free time\
+
+- **Evening**\
+**Event TBA**
 
 ***********************************
 
-Saturday Morning:** Potluck Breakfast at Bruce's house; Airport
-    shuttles can pick you up there.\
+Saturday Morning
+----------------
+
+- **Potluck Breakfast at Bruce's house**\
+  Airport shuttles & group drivers can pick you up there.
 

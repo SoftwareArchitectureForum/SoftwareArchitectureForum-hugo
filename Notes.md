@@ -1,7 +1,6 @@
+- Add page for lightning talks
 - Add https://gunnisoncrestedbutte.com/
 - Step forward/Step back
-- Change so we go outside in the mornings, work in the afternoon? (maybe not for Fall)
-- Gophercon uses https://ti.to which looks very nice
 - Consider using https://groups.io/
 
 
