@@ -3,6 +3,10 @@ title: Conference Theme
 weight: 20
 ---
 
+*Although the theme sets the general tone of the conference, it doesn't
+preclude session topics that might be considered "off theme." The goal
+of the theme is to stimulate ideas, not to prevent discussion.*
+
 Applying Design Thinking
 ------------------------
 [Design Thinking](http://www.creativityatwork.com/design-thinking-strategy-for-innovation/)
@@ -25,7 +29,3 @@ is a process of focused problem-solving through creative thinking and experiment
 -   And lots more
 -   Plus anything else anyone wants to talk about, of course
 -   And our business track
-
-Although the theme sets the general tone of the conference, it doesn't
-preclude session topics that might be considered "off theme." The goal
-of the theme is to stimulate ideas, not to prevent discussion.
