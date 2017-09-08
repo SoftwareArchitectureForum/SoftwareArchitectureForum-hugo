@@ -7,6 +7,14 @@ Crested Butte is a small resort town located at about 9000 feet, near
 the continental divide. It is known for its skiing in the winter and
 hiking and mountain biking in the summer.
 
+-   [The Gunnison/Crested Butte Promotional Site](https://gunnisoncrestedbutte.com/)
+-   [Visit Crested Butte](http://www.visitcrestedbutte.com/)
+-   [Travel Crested Butte](https://travelcrestedbutte.com/)
+-   [Downtown Crested Butte](http://www.downtowncrestedbutte.com/)
+-   [Colordado Tourism Site](http://www.colorado.com/cities-and-towns/crested-buttemt-crested-butte)
+-   [Ski CB](http://www.skicb.com/) (Also has summer information, but focused on *Mount* CB)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Crested_Butte,_Colorado)
+
 -   [Photos
     1](http://mindview.net/Seminars/Locations/CrestedButte/MoreCrestedButtePhotos.html)
 -   [Photos
@@ -15,26 +23,14 @@ hiking and mountain biking in the summer.
 We hold the event in town, and free buses run up to the ski mountain
 every 15 minutes.
 
-[This site](http://www.downtowncrestedbutte.com/) is probably the most
-well-maintained reference to hotels and restaurants in downtown Crested
-Butte (where we hold the event -- note that you should try to stay
-downtown and not on the mountain, so you can just walk everywhere). Note
-that site only lists hotel-style lodging; there is also a [very nice
-hostel](http://www.cbhostel.com/), and numerous AirB&B's and VRBO-style
-spaces available.
+We hold the event in downtown Crested Butte -- note that you should try to
+stay downtown and not on the mountain, so you can just walk everywhere.
 
-High-speed Internet is available in the conference location and at
-several locations within easy walking distance of the conference
-location. Many lodgings provide Internet access but you should ask to
-make sure.
+Internet is available in the conference location and at several locations
+within easy walking distance of the conference location.
 
 **Restaurants:**
 [This](http://www.downtowncrestedbutte.com/restaurants-in-crested-butte/)
-is a reasonably accurate list. There are also a few restaurants on the
-mountain, including the popular [Django's](http://djangos.us/).
+is a reasonably accurate list. [Django's](http://djangos.us/).
 
-**Often people stay the day after the conference or for the weekend;
-informal gatherings have been known to happen.**
 
-[Here's another site](http://travelcrestedbutte.com/) about travel,
-lodging and the Crested Butte experience.

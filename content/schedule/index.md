@@ -7,6 +7,9 @@ weight: 40
 are around and available, we might be able to come out for meals or other
 activities.
 
+**Post-conference**: Often people stay the day after the conference or for the
+weekend; informal gatherings have been known to happen.
+
 ***********************************
 
 Sunday 6:00pm
@@ -37,14 +40,14 @@ Session 1
 Session 2
 
 - **Afternoon**\
-Lunch/free time\
+Lunch/free time/[Afternoon Activities]({{< relref "afternoon/index.md" >}})\
 **(PH downstairs unavailable 3:30pm-5pm)**
 
 - **Evening**\
 Groups go to dinner or informal barbeque at Bruce's
 
 - **8pm**\
-Lightning talks at the Parish Hall\
+[Lightning Talks]({{< relref "lightning/index.md" >}}) at the Parish Hall\
 **Followed by:** Pub discussions
 
 ***********************************
@@ -64,14 +67,14 @@ Session 4
 Session 5
 
 - **Afternoon**\
-Lunch/free time\
+Lunch/free time/[Afternoon Activities]({{< relref "afternoon/index.md" >}})\
 **(PH downstairs unavailable 5:00-6:30pm)**
 
 - **Evening**\
 Groups go to dinner or informal barbeque at Bruce's
 
 - **8pm**\
-Lightning talks at the Parish Hall\
+[Lightning Talks]({{< relref "lightning/index.md" >}}) at the Parish Hall\
 **Followed by:** Pub discussions
 
 ***********************************
@@ -79,10 +82,12 @@ Lightning talks at the Parish Hall\
 Wednesday: Hackathon day
 ------------------------
 
+[Details]({{< relref "hackathon/index.md" >}})
+
 **(PH downstairs unavailable noon-2pm; PH all unavailable 5pm-8pm)**
 
 - **Evening:**\
-Groups go to dinner or informal barbeque
+Groups go to dinner or informal barbeque at Bruce's
 
 - **8pm**\
 Hackathon Showcase Lightning Talks \
@@ -105,7 +110,7 @@ Session 7
 Session 8
 
 - **Afternoon**\
-Lunch/free time\
+Lunch/free time/[Afternoon Activities]({{< relref "afternoon/index.md" >}})
 
 - **Evening**\
 Groups go to dinner or informal barbeque at Bruce's\
@@ -129,7 +134,7 @@ Session 10
 Session Closing Session
 
 - **Afternoon**\
-Lunch/free time\
+Lunch/free time/[Afternoon Activities]({{< relref "afternoon/index.md" >}})
 
 - **Evening**\
 **Event TBA**
