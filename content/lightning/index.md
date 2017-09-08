@@ -20,24 +20,24 @@ didn't finish when people are clapping for you).
 
 Benefits of doing a lightning talk:
 
-#. You’re in a safe speaking environment.
+1. **You’re in a safe speaking environment**.
 
-#. It's a good way to practice speaking.
+2. **It's a good way to practice speaking**.
 
-#. You get to talk about something that excites you. This is one of the
+3. **You get to talk about something that excites you**. This is one of the
 best ways to create a good presentation.
 
-#. The talks are completely informal. Slides are optional. A demo is optional.
+4. **The talks are completely informal**. Slides are optional. A demo is optional.
 Visual aids are optional. There is no process or standard format. The only
 constraint is that it's five minutes or less. Usually there's just one person
 giving each talk but if you need a partner there's no rule about it.
 
-#. They are short. If you're afraid of being boring, the risk is low: it's only
+5. **They are short**. If you're afraid of being boring, the risk is low: it's only
 five minutes. If you're in the audience and a talk isn't engaging you, it's only
 five minutes!
 
-#. They let other people at the conference know more about you, and are good
-ways to start more conversations.
+6. **Connection**. They let other people at the conference know more about
+you, and are good ways to start more conversations.
 
 We have a projector and screen available, but you're free to bring any other
 presentation aids you'd like.
