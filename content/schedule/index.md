@@ -8,7 +8,8 @@ are around and available, we might be able to come out for meals or other
 activities.
 
 **Post-conference**: Often people stay the day after the conference or for the
-weekend; informal gatherings have been known to happen.
+weekend; informal gatherings have been known to happen. Sometimes there is
+a post-conference [Developer Retreat](http://developer-retreat.com).
 
 ***********************************
 

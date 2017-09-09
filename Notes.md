@@ -1,6 +1,3 @@
-- Add page for lightning talks
-- Add https://gunnisoncrestedbutte.com/
-- Step forward/Step back
 - Consider using https://groups.io/
 
 
