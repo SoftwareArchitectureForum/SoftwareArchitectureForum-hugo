@@ -84,6 +84,11 @@ googleAnalytics = ""
 	weight = 50
 
 [[menu.main]]
+	name   = "Venue"
+	url    = "venue/"
+	weight = 55
+
+[[menu.main]]
 	name   = "Travel"
 	url    = "travel/"
 	weight = 60
