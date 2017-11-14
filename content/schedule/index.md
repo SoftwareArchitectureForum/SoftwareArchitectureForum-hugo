@@ -3,7 +3,7 @@ title: Schedule
 weight: 40
 ---
 
-**Pre-conference**: If you arrive early, post something on Twist. If I or others
+**Pre-conference**: If you arrive early, post something on Slack. If I or others
 are around and available, we might be able to come out for meals or other
 activities.
 
@@ -29,7 +29,7 @@ have colorful lights on, as well.
 Monday
 ------
 
-- **Breakfast**: Post your plans on Twist if you want others to join you.
+- **Breakfast**: Post your plans on Slack if you want others to join you.
 
 - **9am**\
 Conference Overview\
@@ -41,8 +41,7 @@ Session 1
 Session 2
 
 - **Afternoon**\
-Lunch/free time/[Afternoon Activities]({{< relref "afternoon/index.md" >}})\
-**(PH downstairs unavailable 3:30pm-5pm)**
+Lunch/free time/[Afternoon Activities]({{< relref "afternoon/index.md" >}})
 
 - **Evening**\
 Groups go to dinner or informal barbeque at Bruce's
@@ -56,20 +55,25 @@ Groups go to dinner or informal barbeque at Bruce's
 Tuesday
 -------
 
-- **Breakfast**: Post your plans on Twist if you want others to join you.
+- **Breakfast**: Post your plans on Slack if you want others to join you.
 
 - **9-9:50am**\
 Session 3
 
+- **9:50-10:20**\
+Break
+
 - **10:20-11:10**\
 Session 4
+
+- **11:10-11:40**\
+Break
 
 - **11:40-12:30**\
 Session 5
 
 - **Afternoon**\
 Lunch/free time/[Afternoon Activities]({{< relref "afternoon/index.md" >}})\
-**(PH downstairs unavailable 5:00-6:30pm)**
 
 - **Evening**\
 Groups go to dinner or informal barbeque at Bruce's
@@ -85,8 +89,6 @@ Wednesday: Hackathon day
 
 [Details]({{< relref "hackathon/index.md" >}})
 
-**(PH downstairs unavailable noon-2pm; PH all unavailable 5pm-8pm)**
-
 - **Evening:**\
 Groups go to dinner or informal barbeque at Bruce's
 
@@ -99,13 +101,19 @@ Hackathon Showcase Lightning Talks \
 Thursday
 --------
 
-- **Breakfast**: Post your plans on Twist if you want others to join you.
+- **Breakfast**: Post your plans on Slack if you want others to join you.
 
 - **9-9:50am**\
 Session 6
 
+- **9:50-10:20**\
+Break
+
 - **10:20-11:10**\
 Session 7
+
+- **11:10-11:40**\
+Break
 
 - **11:40-12:30**\
 Session 8
@@ -123,13 +131,19 @@ Groups go to dinner or informal barbeque at Bruce's\
 Friday
 ------
 
-- **Breakfast**: Post your plans on Twist if you want others to join you.
+- **Breakfast**: Post your plans on Slack if you want others to join you.
 
 - **9-9:50am**\
 Session 9
 
+- **9:50-10:20**\
+Break
+
 - **10:20-11:10**\
 Session 10
+
+- **11:10-11:40**\
+Break
 
 - **11:40-12:30**\
 Session Closing Session
