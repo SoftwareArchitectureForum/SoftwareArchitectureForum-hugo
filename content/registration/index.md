@@ -8,6 +8,8 @@ Butte events and need a break on the fee,
 <a href="https://softwarearchitectureforum.github.io/contact/">make a
 request</a>. Don't let the fee be the reason you can't attend.
 
+## *Registration is not yet open*
+<!--
 - <p style="font-size:20px">First,
 <a href="https://twistapp.com/j/c59781535f0eb0a231f5a942536d7577">Join the Twist Group</a>
 </p>
@@ -30,4 +32,4 @@ and group house rentals.
                 border-radius: 12px;"
     />
 </form>
-</p>
+</p> -->

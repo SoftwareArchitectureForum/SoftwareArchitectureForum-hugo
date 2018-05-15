@@ -5,9 +5,10 @@ weight: 10
 ---
 
 <span style="font-size:150%">Organized by Bruce Eckel<br/>
-Sept 25-29, 2017, Crested Butte, Colorado</span><br/>
+August 27-31, 2018, Crested Butte, Colorado</span><br/>
 
-- Attendance limited to 40
+- *Registration is not yet open*
+
 - Price: $750
 - If you've previously attended any of the Crested
 Butte events and need a break on the fee,
