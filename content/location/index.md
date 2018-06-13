@@ -11,7 +11,7 @@ hiking and mountain biking in the summer.
 -   [Visit Crested Butte](http://www.visitcrestedbutte.com/)
 -   [Travel Crested Butte](https://travelcrestedbutte.com/)
 -   [Downtown Crested Butte](http://www.downtowncrestedbutte.com/)
--   [Colordado Tourism Site](http://www.colorado.com/cities-and-towns/crested-buttemt-crested-butte)
+-   [Colorado Tourism Site](http://www.colorado.com/cities-and-towns/crested-buttemt-crested-butte)
 -   [Ski CB](http://www.skicb.com/) (Also has summer information, but focused on *Mount* CB)
 -   [Wikipedia](https://en.wikipedia.org/wiki/Crested_Butte,_Colorado)
 
