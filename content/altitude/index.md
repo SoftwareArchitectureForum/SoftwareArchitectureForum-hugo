@@ -39,7 +39,10 @@ you feel the slightest headache take them (don't try to tough it out or hope it
 will go away). By catching it early (and of course continuing your water
 regimen) you can head it off.
 
-7. Warm clothing. Even in the summer it's possible to get to places that are
+7. There is a store with hyperbaric chambers on Elk Avenue (our main street) if
+you start feeling too uncomfortable.
+
+8. Warm clothing. Even in the summer it's possible to get to places that are
 cold. At night the temperature often plummets so a T-shirt day can easily
 become a jacket-and-warm-hat night. Although you can sometimes get away with
 shorts, you'll usually end up wearing long pants.

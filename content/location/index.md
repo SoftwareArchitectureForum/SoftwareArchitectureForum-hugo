@@ -20,17 +20,17 @@ hiking and mountain biking in the summer.
 -   [Photos
     2](http://picasaweb.google.com/arnuff/DynamicWebFrameworks_June2007)
 
-We hold the event in town, and free buses run up to the ski mountain
-every 15 minutes.
-
-We hold the event in downtown Crested Butte -- note that you should try to
-stay downtown and not on the mountain, so you can just walk everywhere.
+Although free buses run up to the ski mountain every 15 minutes (so you can
+find lodging there), we hold the event in downtown Crested Butte. People
+generally have a better time staying downtown (*The Town of Crested Butte*) and
+not on the mountain (*The Town of MOUNT Crested Butte*). This way, you can just
+walk everywhere.
 
 Internet is available in the conference location and at several locations
 within easy walking distance of the conference location.
 
 **Restaurants:**
 [This](http://www.downtowncrestedbutte.com/restaurants-in-crested-butte/)
-is a reasonably accurate list. [Django's](http://djangos.us/).
+is a reasonably accurate list.
 
 

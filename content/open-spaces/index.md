@@ -3,19 +3,18 @@ title: An Open Spaces Conference
 weight: 30
 ---
 
-What's the best thing that happened at the last conference you attended?
-It's very likely that you'll remember one or more "hallway
-conversations," or perhaps a "Birds-Of-A-Feather" session. An Open Spaces
-conference creates that experience *for the entire conference*, by
-ensuring that you are always having the most interesting
-**conversation** possible. The emphasis is on *discussion*, instead of
-listening to eyes-forward presentations.
+What's the best thing that happened at the last conference you attended? It's
+very likely that you'll remember one or more "hallway conversations," or
+perhaps a "Birds-Of-A-Feather" session. An Open Spaces conference creates that
+experience *for the entire conference*, by ensuring that you are always having
+the most interesting **conversation** possible. The emphasis is on
+*discussion*, instead of listening to eyes-forward presentations.
 
-Open Spaces is a simple methodology for self-organizing conference tracks.
-It relies on participation by people who have a passion for the topics
-to be discussed. There is no preplanned list of topics, only time slots
-and a space in the main meeting room where interested participants
-propose topics and pick time slots.
+Open Spaces is a simple methodology for self-organizing conference tracks. It
+relies on participation by people who have a passion for the topics to be
+discussed. There is no preplanned list of topics, only time slots and a space
+in the main meeting room where interested participants propose topics and pick
+time slots.
 
 > [View a brief screencast about Open Spaces](http://media.libsyn.com/media/dickwall/Open SpacesIntro.mov)
 
@@ -23,17 +22,16 @@ propose topics and pick time slots.
 [Business Week
 Article](http://www.businessweek.com/magazine/content/07_20/b4034080.htm)).
 
-Open Spaces have been used for conferences and as a facilitation technique
-for company meetings, community organizations, and other groups that
-wish to explore the emergent ideas and agendas of their members. I have
-organized a number of Open Spaces events which have been far and away the
-best meeting experiences I've ever had (I think I'd put on Open Spaces
-all the time if I could).
+Open Spaces have been used for conferences and as a facilitation technique for
+company meetings, community organizations, and other groups that wish to
+explore the emergent ideas and agendas of their members. I have organized a
+number of Open Spaces events which have been far and away the best conference
+experiences I've ever had.
 
-Prepare to be surprised by the depth and breadth of topics that are
-discussed in Open Spaces. Each Open Space experience is unique in some way.
-Quite often topics are raised in Open Spaces that are off the radar of the
-original meeting — this spontaneity is part of the benefit.
+Prepare to be surprised by the depth and breadth of topics that are discussed
+in Open Spaces. Each Open Space experience is unique in some way. Quite often
+topics are raised in Open Spaces that are off the radar of the original meeting
+— this spontaneity is part of the benefit.
 
 Some people have found this concept to be intimidating. In particular,
 questions like the following may arise:
@@ -41,17 +39,17 @@ questions like the following may arise:
 -   *Can I contribute anything of value?*
 -   *Do I need to come with some kind of prepared presentation?*
 
-It doesn't matter if you contribute a little or a lot. And you'll
-probably be surprised that you may know something that others may not.
-Everyone has something to give, whether they know it or not — even if
-it's the "beginner's mind" that asks the right questions.
+It doesn't matter if you contribute a little or a lot. And you'll probably be
+surprised that you may know something that others may not. Everyone has
+something to give, whether they know it or not — even if it's the "beginner's
+mind" that asks the right questions.
 
-One of the greatest things about an Open Space is that it's spontaneous.
-It's not about traditional "eyes-forward" presentations, so if you go to
-the trouble of creating such a thing, it's likely it won't get used. On
-the other hand, if you are familiar with some technology that others
-might like to learn about, we might end up asking you to show us. But
-not in a formal way. So all you really need to bring is your brain.
+One of the greatest things about an Open Space is that it's spontaneous. It's
+not about traditional "eyes-forward" presentations, so if you go to the trouble
+of creating such a thing, it's likely it won't get used. On the other hand, if
+you are familiar with some technology that others might like to learn about, we
+might end up asking you to show us. But not in a formal way. So all you really
+need to bring is your brain.
 
 Open Spaces Guidelines
 ----------------------
@@ -73,9 +71,9 @@ The *Law of Two Feet*
 
 If you feel that you are not contributing or benefiting from a presentation,
 feel free to move on to something else:
--   Move to another open spaces session
--   Start a conversation with someone
--   Go to one of the nearby coffee places; often there are other attendees there in
+-   Move to another open spaces session.
+-   Start a conversation with someone.
+-   Go to one of the nearby coffee bars; you'll often find other attendees there in
     spontaneous conversation.
 -   Post notes from a session. There are folks who couldn't make it who would love
     to know what's happening.
@@ -83,9 +81,8 @@ feel free to move on to something else:
 
 In an Open Spaces conference it is decidedly *not* rude to get up and leave
 (although it might take awhile for you to get used to doing it). On the
-contrary, if you are in a session and disengaged, you are sucking energy out
-of the room -- in that case you're actually helping by using the law of two
-feet.
+contrary, if you are in a session and disengaged, you are sucking energy out of
+the room — in that case you're actually helping by using the law of two feet.
 
 To Lead an Open Spaces Discussion
 ---------------------------------
@@ -97,6 +94,7 @@ To Lead an Open Spaces Discussion
 -   Place the topic on the schedule.
 -   If you see topics that have something in common, consider combining
     them into a single time slot by talking to the convener of the other topic(s).
+    It's also possible to split a topic that is too ambitious into two sessions.
 -   If a significant number of people want to attend both your discussion and
     another discussion in the same time slot, try to trade into another
     time slot to ensure maximum dialog and participation.
@@ -104,8 +102,8 @@ To Lead an Open Spaces Discussion
 To Attend an Open Spaces Discussion
 -----------------------------------
 
--   Check the schedule and just show up. It's OK to drop in once the discussion starts.
--   Use the **Law of two feet** if the session isn't doing it for you.
+-   Check the schedule and just show up. It's OK to drop in after the discussion starts.
+-   Use the **Law of two feet** if the session isn't engaging you.
 -   Allow the discussion convener to steer the topic. If you have a different
     perspective that needs a full time slot you should feel free to add your
     own Open Space slot to discuss the topic.
@@ -113,15 +111,15 @@ To Attend an Open Spaces Discussion
 Invert Your Participation Mode
 ------------------------------
 
-Open Spaces are about participation. Your natural mode might be to
-participate, or it might be to sit back and listen. Regardless of your natural
-mode, you will benefit hugely if you make an effort to invert it.
+Open Spaces are about participation. Your natural mode might be to participate,
+or it might be to sit back and listen. You will benefit hugely if you make an
+effort to invert that mode.
 
 ### If You Naturally Participate
 
-As someone who often presents to groups, I find it easy to slip into
-lecturing mode. I resist this impulse, because that's not what
-Open Spaces are about. General things to remember:
+As someone who often presents to groups, I find it easy to slip into lecturing
+mode. I resist this impulse, because that's not what Open Spaces are about.
+General things to remember:
 
 -   This is a discussion, and you learn more in an Open Space from
     listening than by talking.
@@ -137,7 +135,7 @@ Open Spaces are about. General things to remember:
     back and take a breath. You're probably preparing a lecture. You'll learn
     that it's far more interesting to let the conversation unfold on its own.
 -   If you absolutely must give an introduction, make it no longer than
-    5 minutes, and note it on the session announcement so that people
+    5 minutes, and note this on the session announcement so people
     can choose not to come until the discussion starts. If it's longer
     than 5 minutes, this probably isn't the right forum.
 

@@ -7,7 +7,7 @@ weight: 10
 <span style="font-size:150%">Organized by Bruce Eckel<br/>
 August 27-31, 2018, Crested Butte, Colorado</span><br/>
 
-- *Registration is not yet open*
+- Register <a href = "https://softwarearchitectureforum.github.io/registration/">here</a>.
 
 - Price: $750
 - If you've previously attended any of the Crested

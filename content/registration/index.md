@@ -8,10 +8,8 @@ Butte events and need a break on the fee,
 <a href="https://softwarearchitectureforum.github.io/contact/">make a
 request</a>. Don't let the fee be the reason you can't attend.
 
-## *Registration is not yet open*
-<!--
 - <p style="font-size:20px">First,
-<a href="https://twistapp.com/j/c59781535f0eb0a231f5a942536d7577">Join the Twist Group</a>
+<a href="https://join.slack.com/t/safconf/shared_invite/enQtMzgwNjYxNTAxMTA1LTc1NTI1ZWE3YWQ0ZGMyZTM1YWEwODU3ZTQwMTk3ZjU5NDkxYTY3YTYyOTYyMTM0NDEyOTUzOTRmYTRjOWFiNTk">Join the Slack Group</a>
 </p>
 
 This is the central information hub before, during and after the conference. You
@@ -20,7 +18,7 @@ and group house rentals.
 
 
 - <p style="font-size:20px">Next:
-<form action="https://ti.to/mindview/software-architecture-forum-2017"
+<form action="https://ti.to/mindview/software-architecture-forum-2018"
       method="get" target="_blank">
     <input type="submit" value="Registration Payment"
          name="Submit" id="frm1_submit"
@@ -32,4 +30,4 @@ and group house rentals.
                 border-radius: 12px;"
     />
 </form>
-</p> -->
+</p>

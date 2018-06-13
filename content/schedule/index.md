@@ -3,13 +3,14 @@ title: Schedule
 weight: 40
 ---
 
-**Pre-conference**: If you arrive early, post something on Slack. If I or others
-are around and available, we might be able to come out for meals or other
-activities.
+**Pre-conference**: If you arrive early, post something on Slack. If I or
+others are around and available, we might be able to come out for meals or
+other activities. This year, there's an experimental Kotlin training seminar
+the week prior to the forum that you  might want to attend.
 
 **Post-conference**: Often people stay the day after the conference or for the
 weekend; informal gatherings have been known to happen. Sometimes there is
-a post-conference [Developer Retreat](http://developer-retreat.com).
+a post-conference event, such as a [Developer Retreat](http://developer-retreat.com).
 
 ***********************************
 
@@ -25,6 +26,10 @@ the corner, and you'll see a little white cargo trailer in front. I usually
 have colorful lights on, as well.
 
 ***********************************
+
+**Note:** Later in the summer Crested Butte often experiences "Monsoon Season,"
+when it is clear in the morning and rains in the afternoon. If this happens we
+will adjust the schedule to do outdoor things in the morning.
 
 Monday
 ------

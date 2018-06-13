@@ -63,4 +63,5 @@ weight: 60
 -   Coaches can be rented for groups, to take you to Crested Butte
 -   Montrose airport (about an hour further away than Gunnison) can sometimes be more
     reliable than Gunnison in the Winter. There are services to bring you from Montrose
-    to Crested Butte, or you can rent a car.
+    to Crested Butte, or you can rent a car. Sometimes there are nonstop flights from LAX
+    to Montrose.

@@ -3,6 +3,10 @@ title: Afternoon Activities
 weight: 47
 ---
 
+**Note:** Later in the summer Crested Butte often experiences "Monsoon Season,"
+when it is clear in the morning and rains in the afternoon. If this happens we
+will adjust the schedule to do outdoor things in the morning.
+
 During conference days (Monday, Tuesday, Thursday and Friday), the afternoons
 are unscheduled time. There are numerous options. Note that, although some of
 these look like pure recreation, we have some of our most interesting
