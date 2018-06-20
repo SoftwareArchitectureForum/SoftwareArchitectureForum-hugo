@@ -7,9 +7,13 @@ weight: 10
 <span style="font-size:150%">Organized by Bruce Eckel<br/>
 August 27-31, 2018, Crested Butte, Colorado</span><br/>
 
+- Directly after the week of the <a href="http://atomickotlin.com/seminar/"
+target="_blank">Atomic Kotlin Seminar</a>.
+
 - Register <a href = "https://softwarearchitectureforum.github.io/registration/">here</a>.
 
 - Price: $750
+
 - If you've previously attended any of the Crested
 Butte events and need a break on the fee,
 <a href="https://softwarearchitectureforum.github.io/contact/">make a
