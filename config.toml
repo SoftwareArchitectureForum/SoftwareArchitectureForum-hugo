@@ -13,9 +13,9 @@ googleAnalytics = ""
 	# author = "Bruce Eckel"
 	description = "A Self-Organizing Open Spaces Conference."
 
-	logo = "/images/SAF-square.png"
+	logo = "images/SAF-square.png"
 	favicon = "images/SAF-favicon.ico"
-	banner_image = "/images/SAF-banner.jpg"
+	banner_image = "images/SAF-banner.jpg"
 
 	permalink = "#"
 
