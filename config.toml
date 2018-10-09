@@ -1,5 +1,5 @@
 # baseurl = "https://SoftwareArchitectureForum.github.io"
-baseurl = "http://SoftwareArchitectureForum.com"
+baseurl = "/"
 languageCode = "en-us"
 title = "Software Architecture Forum: A Self-Organizing Open Spaces Conference in Crested Butte, Colorado Aug 27-31, 2018"
 theme = "hugo-material-docs"
